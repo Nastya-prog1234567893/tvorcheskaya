@@ -1,5 +1,5 @@
 # Vitaly
-_Vitaly_ is my **sister's** toy seal. I will talk about him and his day.
+_Vitaly_ is my sister's **toy seal**. I will talk about him and his day.
 Vitaly's day:
 1. Waking up
 2. Doing some activity
