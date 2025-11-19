@@ -16,7 +16,7 @@ Comparing my sister and Vitaly
 | Criteria      |Vitaly         | My sister|
 | ------------- |:-------------:| --------:|
 | looks funny   | Yes           | No       |
-| Needs sleap   | Yes           | Yes      |
+| Needs sleep   | Yes           | Yes      |
 | Can talk      | No            | Yes      |
 
 [You can buy Vitaly here](https://www.ozon.ru/product/myagkaya-igrushka-tyulen-vitaliy-80-sm-nerpa-myagkaya-igrushka-podushka-945360804/?at=K8tZplvvvfvGyWpqHJ9RLxKtvNwll8i4DgvV3HvM4EjA&from_sku=945360783&oos_search=false)
